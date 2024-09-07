@@ -1,0 +1,10 @@
+Control Module
+INPUT N1
+INPUT N2
+If N2/N1 is in fraction
+         then Print Not Divisible
+         Else Print Divisible
+If N2/N1 comes in a table of 2
+         then Print even
+         Else Print Odd
+End
