@@ -1,0 +1,10 @@
+Start 
+INPUT N1
+INPUT N2
+INPUT N3
+IF N1 > N2 and N3
+   then N1 is largest
+   Else IF N2 > N1 and N3
+           then N2 is largest
+           Else N3 is largest
+End
